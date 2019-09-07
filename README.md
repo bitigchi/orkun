@@ -1,5 +1,5 @@
 orkun
 =====
 
-A typeface for the Orkhon-Yenisei script
+A typeface for the Old Turkic (Orkhon-Yenisei) script
 ![Orkun TypeFace](/.github/orkun.png)
